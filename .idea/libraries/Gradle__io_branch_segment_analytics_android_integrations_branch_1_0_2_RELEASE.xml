@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.branch.segment.analytics.android.integrations:branch-1.0.2-RELEASE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/branch-1.0.2-RELEASE.aar/d2573b7096d8ff9b81f91e668e7c6dcd/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/branch-1.0.2-RELEASE.aar/d2573b7096d8ff9b81f91e668e7c6dcd/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.branch.segment.analytics.android.integrations/branch/1.0.2-RELEASE/8f1863aa88475497090222587c46c62e04612ec3/branch-1.0.2-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

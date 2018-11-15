@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:1-73:12
+INJECTED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:1-73:12
+INJECTED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:1-73:12
+MERGED from [com.google.android.gms:play-services:6.5.87] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/play-services-6.5.87.aar/fd2f6fc6b90ba294db293cc07b80adc6/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:design:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/83584b52fd410b9eb8074fb3d12c1efa/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/6f25c4bb526292202d83cded25c90024/AndroidManifest.xml:17:1-27:12
+MERGED from [io.branch.segment.analytics.android.integrations:branch:1.0.2-RELEASE] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/branch-1.0.2-RELEASE.aar/d2573b7096d8ff9b81f91e668e7c6dcd/AndroidManifest.xml:2:1-10:12
+MERGED from [io.branch.sdk.android:library:3.0.1] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/library-3.0.1.aar/02a4b7032e0b0a577f1b53270af69ae8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/7ca13fa3fc423f357c44cc24c187a5b9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/945cb2cfb4320efc2d4c4eda252f1c32/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/63a1e6d88c6a4b3ac6f909f8fe6bef7d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/17ac61d8c233ec18086261f0ae931466/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/949576824dd1b43a26cb706e80c8eec6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/752e2ed7dd3a72b8570b3e2f30d776ac/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/b377d3102bd6bbea2be3eacd69b34b6e/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/a1e78af6116d48d28d067f69fdb1a605/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/281a216c5512a202b80ad24b72d2963d/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/3411bd3c95660a11cd4e8a3de768c3ee/AndroidManifest.xml:17:1-27:12
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/answers-shim-0.0.6.aar/a8af9435cff6f6c8389d093d1154e8e3/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:1-73:12
+INJECTED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:1-73:12
+	package
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:3:5-35
+	android:versionName
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:6.5.87] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/play-services-6.5.87.aar/fd2f6fc6b90ba294db293cc07b80adc6/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:6.5.87] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/play-services-6.5.87.aar/fd2f6fc6b90ba294db293cc07b80adc6/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/83584b52fd410b9eb8074fb3d12c1efa/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/83584b52fd410b9eb8074fb3d12c1efa/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/6f25c4bb526292202d83cded25c90024/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/6f25c4bb526292202d83cded25c90024/AndroidManifest.xml:21:5-23:78
+MERGED from [io.branch.segment.analytics.android.integrations:branch:1.0.2-RELEASE] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/branch-1.0.2-RELEASE.aar/d2573b7096d8ff9b81f91e668e7c6dcd/AndroidManifest.xml:6:5-8:41
+MERGED from [io.branch.segment.analytics.android.integrations:branch:1.0.2-RELEASE] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/branch-1.0.2-RELEASE.aar/d2573b7096d8ff9b81f91e668e7c6dcd/AndroidManifest.xml:6:5-8:41
+MERGED from [io.branch.sdk.android:library:3.0.1] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/library-3.0.1.aar/02a4b7032e0b0a577f1b53270af69ae8/AndroidManifest.xml:7:5-9:41
+MERGED from [io.branch.sdk.android:library:3.0.1] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/library-3.0.1.aar/02a4b7032e0b0a577f1b53270af69ae8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:transition:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/7ca13fa3fc423f357c44cc24c187a5b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/7ca13fa3fc423f357c44cc24c187a5b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/945cb2cfb4320efc2d4c4eda252f1c32/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/945cb2cfb4320efc2d4c4eda252f1c32/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/63a1e6d88c6a4b3ac6f909f8fe6bef7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/63a1e6d88c6a4b3ac6f909f8fe6bef7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/17ac61d8c233ec18086261f0ae931466/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/17ac61d8c233ec18086261f0ae931466/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/949576824dd1b43a26cb706e80c8eec6/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/949576824dd1b43a26cb706e80c8eec6/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/752e2ed7dd3a72b8570b3e2f30d776ac/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/752e2ed7dd3a72b8570b3e2f30d776ac/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/b377d3102bd6bbea2be3eacd69b34b6e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/b377d3102bd6bbea2be3eacd69b34b6e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/a1e78af6116d48d28d067f69fdb1a605/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/a1e78af6116d48d28d067f69fdb1a605/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/281a216c5512a202b80ad24b72d2963d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/281a216c5512a202b80ad24b72d2963d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/3411bd3c95660a11cd4e8a3de768c3ee/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/3411bd3c95660a11cd4e8a3de768c3ee/AndroidManifest.xml:21:5-23:58
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/answers-shim-0.0.6.aar/a8af9435cff6f6c8389d093d1154e8e3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/answers-shim-0.0.6.aar/a8af9435cff6f6c8389d093d1154e8e3/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/83584b52fd410b9eb8074fb3d12c1efa/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:8:9-35
+uses-permission#android.permission.INTERNET
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:13:22-77
+application
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:15:5-71:19
+MERGED from [com.google.android.gms:play-services:6.5.87] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/play-services-6.5.87.aar/fd2f6fc6b90ba294db293cc07b80adc6/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services:6.5.87] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/play-services-6.5.87.aar/fd2f6fc6b90ba294db293cc07b80adc6/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:design:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/83584b52fd410b9eb8074fb3d12c1efa/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/83584b52fd410b9eb8074fb3d12c1efa/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/6f25c4bb526292202d83cded25c90024/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/6f25c4bb526292202d83cded25c90024/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/7ca13fa3fc423f357c44cc24c187a5b9/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/7ca13fa3fc423f357c44cc24c187a5b9/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/945cb2cfb4320efc2d4c4eda252f1c32/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/945cb2cfb4320efc2d4c4eda252f1c32/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/63a1e6d88c6a4b3ac6f909f8fe6bef7d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/63a1e6d88c6a4b3ac6f909f8fe6bef7d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/17ac61d8c233ec18086261f0ae931466/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/17ac61d8c233ec18086261f0ae931466/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/752e2ed7dd3a72b8570b3e2f30d776ac/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/752e2ed7dd3a72b8570b3e2f30d776ac/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/b377d3102bd6bbea2be3eacd69b34b6e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/b377d3102bd6bbea2be3eacd69b34b6e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/a1e78af6116d48d28d067f69fdb1a605/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/a1e78af6116d48d28d067f69fdb1a605/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/281a216c5512a202b80ad24b72d2963d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/281a216c5512a202b80ad24b72d2963d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/3411bd3c95660a11cd4e8a3de768c3ee/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/3411bd3c95660a11cd4e8a3de768c3ee/AndroidManifest.xml:25:5-20
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/answers-shim-0.0.6.aar/a8af9435cff6f6c8389d093d1154e8e3/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers-shim:0.0.6] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/answers-shim-0.0.6.aar/a8af9435cff6f6c8389d093d1154e8e3/AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:19:9-41
+	android:largeHeap
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:16:9-33
+	android:icon
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:18:9-45
+	android:allowBackup
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:17:9-35
+activity#io.branch.branchster.SplashActivity
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:20:9-52:20
+	android:screenOrientation
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:23:13-49
+	android:label
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:22:13-45
+	android:launchMode
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:25:13-44
+	android:theme
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:24:13-53
+	android:name
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:21:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:29:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:branchsters
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:32:13-37:26
+data
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:33:17-54
+	android:scheme
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:33:23-51
+action#android.intent.action.VIEW
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:34:14-66
+	android:name
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:34:22-63
+category#android.intent.category.DEFAULT
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:35:14-73
+	android:name
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:35:24-70
+category#android.intent.category.BROWSABLE
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:36:14-75
+	android:name
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:36:24-72
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:SE_Amy_Rivera
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:40:13-45:29
+meta-data#io.branch.sdk.BranchKey
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:47:13-123
+	android:value
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:47:63-120
+	android:name
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:47:24-62
+meta-data#io.branch.sdk.BranchKey.test
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:48:13-127
+	android:value
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:48:68-124
+	android:name
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:48:24-67
+meta-data#io.branch.sdk.TestMode
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:49:13-86
+	android:value
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:49:62-83
+	android:name
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:49:24-61
+activity#io.branch.branchster.MonsterViewerActivity
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:54:9-59:20
+	android:screenOrientation
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:58:13-49
+	android:launchMode
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:57:13-48
+	android:theme
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:55:13-70
+activity#io.branch.branchster.MonsterCreatorActivity
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:61:9-66:20
+	android:screenOrientation
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:65:13-49
+	android:launchMode
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:64:13-48
+	android:theme
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:63:13-49
+	android:name
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:62:13-71
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:68:9-107
+	android:value
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:68:66-105
+	android:name
+		ADDED from /Users/AmyRivera/Downloads/Branchster-Android-No-SDK/app/src/main/AndroidManifest.xml:68:20-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services:6.5.87] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/play-services-6.5.87.aar/fd2f6fc6b90ba294db293cc07b80adc6/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services:6.5.87] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/play-services-6.5.87.aar/fd2f6fc6b90ba294db293cc07b80adc6/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services:6.5.87] /Users/AmyRivera/.gradle/caches/transforms-1/files-1.1/play-services-6.5.87.aar/fd2f6fc6b90ba294db293cc07b80adc6/AndroidManifest.xml:22:13-58
